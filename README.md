@@ -16,6 +16,3 @@ Captures input device events and POST events to server
 
 ## server
 Bun-based service aggregating data (e.g. Home Assistant, Prometheus, Grafana), constructing 8-bit grayscale image for Kindle to poll and present on image.
-
-
-
