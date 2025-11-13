@@ -1,6 +1,8 @@
 # kindle-kiosk
 Interactive, Kindle-powered kiosk. Motivated by need for at-a-glance control and sensor presentation on a nice e-ink display.
 
+Perhaps a better solution is to buy a newer e-ink display with multicolour support. 
+
 ## Hardware
 Kindle Paperwhite 7th generation (PW3), firmware: 5.13.6. Jailbroken with USBnetworking for sshd over wifi.
 
