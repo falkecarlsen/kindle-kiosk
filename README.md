@@ -1,7 +1,7 @@
 # kindle-kiosk
 Interactive, Kindle-powered kiosk. Motivated by need for at-a-glance control and sensor presentation on a nice e-ink display.
 
-Perhaps a better solution is to buy a newer e-ink display with multicolour support. 
+Perhaps a better solution is to buy a newer e-ink display with multicolour support. Seeed Studio 7.3" [reTerminal E1002 Full-color ePaper Display](https://www.seeedstudio.com/reTerminal-E1002-p-6533.html) seems like a good choice.
 
 ## Hardware
 Kindle Paperwhite 7th generation (PW3), firmware: 5.13.6. Jailbroken with USBnetworking for sshd over wifi.
